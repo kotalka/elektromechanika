@@ -2943,11 +2943,10 @@ span.m_1 {
     background: #008b8b;
 }
 @media screen and (max-width: 990px){
-    .pricingTable{
+    .pricingTable {
         margin-bottom: 20px;
     }
 }
-
 
 .pricingTable-sign-up a{}
 .pricingTable-sign-up a{
